@@ -1,0 +1,30 @@
+_repo: The-Human-Chord_11988
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Blackwood, Algernon
+    birthdate: 1869
+    deathdate: 1951
+    gutenberg_agent_id: '1370'
+    url: http://www.gutenberg.org/2009/agents/1370
+    wikipedia: http://en.wikipedia.org/wiki/Algernon_Blackwood
+description: The assertion that beautiful music shares a mysterious connection with
+  the human soul is not a new one. For thousands of years, ever since our distant
+  ancestors first began making pleasing sounds with whatever rudimentary implements
+  they could lay their hands on, music has been an important part of ritual, ceremony
+  and spiritual life. In The Human Chord, renowned master of the supernatural Algernon
+  Blackwood takes this concept a step further &ndash; with engrossing and...
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11988'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Paranormal fiction'
+- GITenberg
+title: The Human Chord
+url: http://www.gutenberg.org/ebooks/11988
